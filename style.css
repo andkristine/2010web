@@ -1,0 +1,16 @@
+ {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: saddlebrown;
+}
+
+nav {
+    background-color: sandybrown;
+    height: 60px;
+    align-items: center;
+    justify-content: space-evenly;
+}
